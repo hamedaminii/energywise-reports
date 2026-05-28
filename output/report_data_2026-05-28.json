@@ -2,9 +2,9 @@
   "date": "2026-05-28",
   "date_label": "Today",
   "weather": {
-    "avg_temp": 14.3,
+    "avg_temp": 14.5,
     "min_temp": 13.4,
-    "max_temp": 15.1,
+    "max_temp": 15.3,
     "avg_wind": 7.3,
     "description": "Broken clouds"
   },
@@ -30,7 +30,7 @@
   "alert": {
     "type": "extreme",
     "color": "danger",
-    "message": "\u26a0\ufe0f Extreme price swing \u2014 10.7 c/kWh peak vs 0.2 c/kWh low"
+    "message": "\u26a0\ufe0f Extreme price swing"
   },
   "windows": {
     "best_6h": {
@@ -260,20 +260,6 @@
       "savings_eur": 0.115,
       "flexibility": "medium",
       "category": "personal"
-    },
-    {
-      "name": "Vacuum Cleaner",
-      "emoji": "\ud83e\uddf9",
-      "watts": 1400,
-      "duration": 30,
-      "best_start": 14,
-      "best_avg": 0.24,
-      "window_str": "14:00\u201315:00",
-      "cost_best": 0.17,
-      "cost_worst": 7.47,
-      "savings_eur": 0.073,
-      "flexibility": "medium",
-      "category": "cleaning"
     }
   ],
   "sauna_cheap": {
@@ -310,17 +296,17 @@
     "savings_eur": 6.08
   },
   "environmental": {
-    "co2_saved_g": 4484.8,
-    "co2_saved_yearly_kg": 1636.9,
-    "tree_days": 78.0,
-    "ice_cm2": 134.5,
-    "ice_m2_yearly": 4.911,
-    "collective_co2_tonnes_yr": 4092357.0,
-    "collective_ice_km2_yr": 12.28,
+    "co2_saved_g": 4537.3,
+    "co2_saved_yearly_kg": 1656.1,
+    "tree_days": 78.9,
+    "ice_cm2": 136.1,
+    "ice_m2_yearly": 4.968,
+    "collective_co2_tonnes_yr": 4140263.0,
+    "collective_ice_km2_yr": 12.42,
     "greenest_hours": "12:00\u201324:00",
     "dirtiest_hours": "00:00\u201312:00",
-    "carbon_min": 45.0,
+    "carbon_min": 43.0,
     "carbon_max": 201.6,
-    "carbon_avg": 121.4
+    "carbon_avg": 120.8
   }
 }
