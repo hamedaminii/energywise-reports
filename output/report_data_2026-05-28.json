@@ -2,10 +2,10 @@
   "date": "2026-05-28",
   "date_label": "Today",
   "weather": {
-    "avg_temp": 14.7,
+    "avg_temp": 14.6,
     "min_temp": 13.9,
     "max_temp": 15.2,
-    "avg_wind": 7.3,
+    "avg_wind": 6.9,
     "description": "Scattered clouds"
   },
   "price_stats": {
@@ -129,8 +129,8 @@
       "best_start": 0,
       "best_avg": 0.41,
       "window_str": "00:00\u201308:00",
-      "cost_best": 24.27,
-      "cost_worst": 631.57,
+      "cost_best": 0.243,
+      "cost_worst": 6.316,
       "savings_eur": 6.073,
       "flexibility": "high",
       "category": "vehicle"
@@ -143,8 +143,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201316:00",
-      "cost_best": 2.55,
-      "cost_worst": 112.02,
+      "cost_best": 0.025,
+      "cost_worst": 1.12,
       "savings_eur": 1.095,
       "flexibility": "high",
       "category": "heating"
@@ -157,8 +157,8 @@
       "best_start": 12,
       "best_avg": 0.25,
       "window_str": "12:00\u201316:00",
-      "cost_best": 2.03,
-      "cost_worst": 85.35,
+      "cost_best": 0.02,
+      "cost_worst": 0.853,
       "savings_eur": 0.833,
       "flexibility": "high",
       "category": "heating"
@@ -171,8 +171,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201316:00",
-      "cost_best": 0.73,
-      "cost_worst": 32.01,
+      "cost_best": 0.007,
+      "cost_worst": 0.32,
       "savings_eur": 0.313,
       "flexibility": "high",
       "category": "cleaning"
@@ -185,8 +185,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201316:00",
-      "cost_best": 0.73,
-      "cost_worst": 32.01,
+      "cost_best": 0.007,
+      "cost_worst": 0.32,
       "savings_eur": 0.313,
       "flexibility": "medium",
       "category": "heating"
@@ -199,8 +199,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201315:00",
-      "cost_best": 0.6,
-      "cost_worst": 26.67,
+      "cost_best": 0.006,
+      "cost_worst": 0.267,
       "savings_eur": 0.261,
       "flexibility": "high",
       "category": "cleaning"
@@ -213,8 +213,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201315:00",
-      "cost_best": 0.6,
-      "cost_worst": 26.67,
+      "cost_best": 0.006,
+      "cost_worst": 0.267,
       "savings_eur": 0.261,
       "flexibility": "medium",
       "category": "cooking"
@@ -227,8 +227,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201315:00",
-      "cost_best": 0.54,
-      "cost_worst": 24.0,
+      "cost_best": 0.005,
+      "cost_worst": 0.24,
       "savings_eur": 0.235,
       "flexibility": "high",
       "category": "cleaning"
@@ -241,8 +241,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201315:00",
-      "cost_best": 0.48,
-      "cost_worst": 21.34,
+      "cost_best": 0.005,
+      "cost_worst": 0.213,
       "savings_eur": 0.209,
       "flexibility": "high",
       "category": "heating"
@@ -255,8 +255,8 @@
       "best_start": 14,
       "best_avg": 0.24,
       "window_str": "14:00\u201315:00",
-      "cost_best": 0.26,
-      "cost_worst": 11.74,
+      "cost_best": 0.003,
+      "cost_worst": 0.117,
       "savings_eur": 0.115,
       "flexibility": "medium",
       "category": "personal"
@@ -303,11 +303,11 @@
     "ice_m2_yearly": 4.949,
     "collective_co2_tonnes_yr": 4124295.0,
     "collective_ice_km2_yr": 12.37,
-    "greenest_hours": "14:00\u201324:00",
-    "dirtiest_hours": "00:00\u201314:00",
+    "greenest_hours": "15:00\u201324:00",
+    "dirtiest_hours": "00:00\u201315:00",
     "carbon_min": 44.0,
     "carbon_max": 201.6,
-    "carbon_avg": 133.4
+    "carbon_avg": 139.5
   },
   "prices_c": {
     "0": 0.529,
@@ -376,7 +376,7 @@
     "11": 201.3,
     "12": 198.4,
     "13": 195.1,
-    "14": 46.0,
+    "14": 192.7,
     "15": 46.0,
     "16": 45.0,
     "17": 45.0,
