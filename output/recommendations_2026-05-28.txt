@@ -32,4 +32,4 @@ Avg CO₂: 121 gCO₂/kWh
   Total: €0.31 — saves up to €9.02 vs peak
   Includes: EV Charging, Electric Sauna, Floor Heating, Washing Machine, Tumble Dryer, Electric Boiler, Dishwasher
 
-🌡️ Weather: 14°C (13–15°C), Broken clouds, wind 7 m/s
+🌡️ Weather: 15°C (13–15°C), Broken clouds, wind 7 m/s
