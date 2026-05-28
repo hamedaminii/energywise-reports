@@ -28,5 +28,5 @@ Avg CO₂: 183 gCO₂/kWh
 🛁 SAUNA (after work): Heat at 16:00 (0.1 c/kWh) → enjoy at 18:00 — typical Finnish weekday sauna time
 
 💡 DAILY COST ESTIMATE (optimised schedule, one run each)
-  Total: €2.05 — saves up to €1.31 vs peak
-  Includes: Electric Sauna, Floor Heating, Electric Boiler, Washing Machine, Tumble Dryer, Dishwasher, EV Charging
+  Total: €0.13 — saves up to €3.23 vs peak
+  Includes: EV Charging, Electric Sauna, Floor Heating, Washing Machine, Electric Boiler, Tumble Dryer, Dishwasher
