@@ -30,7 +30,7 @@
   "alert": {
     "type": "extreme",
     "color": "danger",
-    "message": "\u26a0\ufe0f Extreme price swing"
+    "message": "\u26a0\ufe0f Extreme price swing \u2014 10.7 c/kWh peak vs 0.2 c/kWh low"
   },
   "windows": {
     "best_6h": {
@@ -260,6 +260,20 @@
       "savings_eur": 0.115,
       "flexibility": "medium",
       "category": "personal"
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "emoji": "\ud83e\uddf9",
+      "watts": 1400,
+      "duration": 30,
+      "best_start": 14,
+      "best_avg": 0.24,
+      "window_str": "14:00\u201315:00",
+      "cost_best": 0.17,
+      "cost_worst": 7.47,
+      "savings_eur": 0.073,
+      "flexibility": "medium",
+      "category": "cleaning"
     }
   ],
   "sauna_cheap": {
