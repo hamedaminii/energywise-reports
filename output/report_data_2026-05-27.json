@@ -46,8 +46,18 @@
   "daily_cost": {
     "rows": [
       {
+        "name": "EV Charging",
+        "emoji": "\ud83d\ude97",
+        "watts": 7400,
+        "kwh": 59.2,
+        "cost_opt": 0.114,
+        "cost_avg": 0.984,
+        "cost_peak": 2.278
+      },
+      {
         "name": "Electric Sauna",
         "emoji": "\ud83d\udec1",
+        "watts": 7000,
         "kwh": 10.5,
         "cost_opt": 0.007,
         "cost_avg": 0.174,
@@ -56,30 +66,34 @@
       {
         "name": "Floor Heating",
         "emoji": "\ud83c\udf21\ufe0f",
+        "watts": 2000,
         "kwh": 8.0,
         "cost_opt": 0.007,
         "cost_avg": 0.133,
         "cost_peak": 0.308
       },
       {
-        "name": "Electric Boiler",
-        "emoji": "\ud83d\udebf",
-        "kwh": 2.0,
-        "cost_opt": 0.001,
-        "cost_avg": 0.033,
-        "cost_peak": 0.077
-      },
-      {
         "name": "Washing Machine",
         "emoji": "\ud83e\uddfa",
+        "watts": 2000,
         "kwh": 3.0,
         "cost_opt": 0.002,
         "cost_avg": 0.05,
         "cost_peak": 0.115
       },
       {
+        "name": "Electric Boiler",
+        "emoji": "\ud83d\udebf",
+        "watts": 2000,
+        "kwh": 2.0,
+        "cost_opt": 0.001,
+        "cost_avg": 0.033,
+        "cost_peak": 0.077
+      },
+      {
         "name": "Tumble Dryer",
         "emoji": "\u267b\ufe0f",
+        "watts": 2500,
         "kwh": 2.5,
         "cost_opt": 0.001,
         "cost_avg": 0.042,
@@ -88,24 +102,17 @@
       {
         "name": "Dishwasher",
         "emoji": "\ud83c\udf7d\ufe0f",
+        "watts": 1800,
         "kwh": 2.25,
         "cost_opt": 0.001,
         "cost_avg": 0.037,
         "cost_peak": 0.087
-      },
-      {
-        "name": "EV Charging",
-        "emoji": "\ud83d\ude97",
-        "kwh": 59.2,
-        "cost_opt": 2.034,
-        "cost_avg": 0.984,
-        "cost_peak": 2.278
       }
     ],
-    "total_opt": 2.05,
+    "total_opt": 0.13,
     "total_avg": 1.45,
     "total_peak": 3.37,
-    "max_savings": 1.31
+    "max_savings": 3.23
   },
   "appliances": [
     {
