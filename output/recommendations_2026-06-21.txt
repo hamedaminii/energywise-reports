@@ -1,0 +1,32 @@
+⚡ EXCEPTIONAL PRICING TOMORROW — NEGATIVE PRICES DETECTED
+📅 Tomorrow: Sunday 21 June 2026
+
+💰 PRICE SUMMARY
+Average: 0.3 c/kWh | Range: -0.0–1.0 c/kWh
+Cheapest window: 00:00–06:00 (-0.0 c/kWh)
+Priciest window: 19:00–23:00 (0.9 c/kWh)
+
+🆓 FREE/NEGATIVE ELECTRICITY: 00:00, 01:00, 02:00, 03:00, 04:00, 05:00
+Run EVERYTHING you can during these hours!
+
+🌿 CARBON OUTLOOK
+Avg CO₂: 45 gCO₂/kWh
+
+📋 RECOMMENDED SCHEDULE
+🚗 EV Charging: 00:00–08:00 (0.0 c/kWh) — saves ~€0.59
+🛁 Electric Sauna: 03:00–05:00 (-0.0 c/kWh) — saves ~€0.11
+🌡️ Floor Heating: 02:00–06:00 (-0.0 c/kWh) — saves ~€0.08
+❄️ Air Conditioning: 03:00–05:00 (-0.0 c/kWh) — saves ~€0.03
+
+⚡ FREE/NEGATIVE ELECTRICITY at 00:00, 01:00, 02:00, 03:00, 04:00, 05:00 — run everything you can during these hours!
+✅ CHEAPEST 6-HOUR WINDOW: 00:00–06:00 (avg -0.0 c/kWh) — ideal for high-consumption tasks
+⛔ AVOID IF POSSIBLE: 19:00–23:00 (avg 0.9 c/kWh, 2.8× daily average)
+🚗 EV OVERNIGHT WINDOW: 00:00–08:00 (avg 0.0 c/kWh) — overnight avg 0.3 c/kWh (+0.3 vs daytime cheapest)
+🛁 SAUNA (cheapest): Start heating at 14:00 (0.1 c/kWh) → ready at 16:00. Heating costs ~€0.01
+🌿 GREENEST HOURS (< 50 gCO₂/kWh): 00:00–11:00, 12:00–24:00
+
+💡 DAILY COST ESTIMATE (optimised schedule, one run each)
+  Total: €0.03 — saves up to €0.88 vs peak
+  Includes: EV Charging, Washing Machine, Tumble Dryer, Dishwasher, Electric Sauna, Floor Heating, Electric Boiler
+
+🌡️ Weather: 21°C (17–26°C), Overcast clouds, wind 5 m/s
