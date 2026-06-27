@@ -1,0 +1,35 @@
+⚠️ EXTREME PRICE SWINGS TOMORROW
+📅 Tomorrow: Sunday 28 June 2026
+
+💰 PRICE SUMMARY
+Average: 5.3 c/kWh | Range: 1.7–10.5 c/kWh
+Cheapest window: 11:00–17:00 (2.1 c/kWh)
+Priciest window: 19:00–23:00 (10.1 c/kWh)
+
+🌿 CARBON OUTLOOK
+Avg CO₂: 49 gCO₂/kWh
+
+📋 RECOMMENDED SCHEDULE
+🚗 EV Charging: 01:00–09:00 (4.5 c/kWh) — saves ~€3.55
+🛁 Electric Sauna: 13:00–15:00 (1.7 c/kWh) — saves ~€0.93
+🌡️ Floor Heating: 12:00–16:00 (1.9 c/kWh) — saves ~€0.69
+🧺 Washing Machine: 13:00–15:00 (1.7 c/kWh) — saves ~€0.27
+❄️ Air Conditioning: 13:00–15:00 (1.7 c/kWh) — saves ~€0.27
+♻️ Tumble Dryer: 13:00–14:00 (1.7 c/kWh) — saves ~€0.22
+🍕 Electric Oven: 13:00–14:00 (1.7 c/kWh) — saves ~€0.22
+🍽️ Dishwasher: 13:00–14:00 (1.7 c/kWh) — saves ~€0.20
+🚿 Electric Boiler: 13:00–14:00 (1.7 c/kWh) — saves ~€0.18
+👔 Iron: 13:00–14:00 (1.7 c/kWh) — saves ~€0.10
+
+✅ CHEAPEST 6-HOUR WINDOW: 11:00–17:00 (avg 2.1 c/kWh) — ideal for high-consumption tasks
+⛔ AVOID IF POSSIBLE: 19:00–23:00 (avg 10.1 c/kWh, 1.9× daily average)
+🚗 EV OVERNIGHT WINDOW: 01:00–09:00 (avg 4.5 c/kWh) — overnight avg 6.3 c/kWh (+4.6 vs daytime cheapest)
+🛁 SAUNA (cheapest): Start heating at 13:00 (1.7 c/kWh) → ready at 15:00. Heating costs ~€0.18
+🌿 GREENEST HOURS (< 50 gCO₂/kWh): 07:00–24:00
+☀️ Warm day tomorrow (21°C) — run AC during cheap 11:00–17:00 rather than expensive evening hours
+
+💡 DAILY COST ESTIMATE (optimised schedule, one run each)
+  Total: €2.03 — saves up to €7.19 vs peak
+  Includes: EV Charging, Electric Sauna, Floor Heating, Washing Machine, Tumble Dryer, Dishwasher, Electric Boiler
+
+🌡️ Weather: 21°C (19–26°C), Overcast clouds, wind 3 m/s
