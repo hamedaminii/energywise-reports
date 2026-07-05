@@ -1,0 +1,12 @@
+🔋 Finland Energy Advisor
+📅 Tomorrow: Monday 6 July 2026
+
+💰 PRICE SUMMARY
+Average: 1.0 c/kWh | Range: 0.8–1.4 c/kWh
+Cheapest window: 18:00–24:00 (0.9 c/kWh)
+Priciest window: 10:00–14:00 (1.1 c/kWh)
+
+✅ Flat pricing day — no special scheduling needed.
+Run appliances whenever convenient.
+
+🌡️ Weather: 14°C, Light rain
