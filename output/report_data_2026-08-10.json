@@ -1,0 +1,345 @@
+{
+  "date": "2026-08-10",
+  "date_label": "Tomorrow",
+  "weather": {
+    "avg_temp": 17.8,
+    "min_temp": 15.9,
+    "max_temp": 20.8,
+    "avg_wind": 6.8,
+    "description": "Scattered clouds"
+  },
+  "price_stats": {
+    "avg": 0.991,
+    "min": 0.262,
+    "max": 2.021,
+    "range": 1.759,
+    "stdev": 0.555,
+    "p20": 0.316,
+    "p40": 0.882,
+    "p60": 1.088,
+    "p80": 1.503,
+    "has_negative": false,
+    "spike_hours": [
+      19,
+      20
+    ]
+  },
+  "alert": {
+    "type": "normal",
+    "color": "warning",
+    "message": "\ud83d\udcca Moderate price variation \u2014 1.8 c/kWh spread today"
+  },
+  "windows": {
+    "best_6h": {
+      "start": 0,
+      "end": 6,
+      "avg": 0.285
+    },
+    "worst_4h": {
+      "start": 19,
+      "end": 23,
+      "avg": 1.861
+    },
+    "ev_night": {
+      "start": 0,
+      "end": 8,
+      "avg": 0.397
+    }
+  },
+  "daily_cost": {
+    "rows": [
+      {
+        "name": "EV Charging",
+        "emoji": "\ud83d\ude97",
+        "watts": 7400,
+        "kwh": 59.2,
+        "cost_opt": 0.235,
+        "cost_avg": 0.587,
+        "cost_peak": 1.196
+      },
+      {
+        "name": "Electric Sauna",
+        "emoji": "\ud83d\udec1",
+        "watts": 7000,
+        "kwh": 10.5,
+        "cost_opt": 0.028,
+        "cost_avg": 0.104,
+        "cost_peak": 0.212
+      },
+      {
+        "name": "Washing Machine",
+        "emoji": "\ud83e\uddfa",
+        "watts": 2000,
+        "kwh": 3.0,
+        "cost_opt": 0.026,
+        "cost_avg": 0.03,
+        "cost_peak": 0.061
+      },
+      {
+        "name": "Floor Heating",
+        "emoji": "\ud83c\udf21\ufe0f",
+        "watts": 2000,
+        "kwh": 8.0,
+        "cost_opt": 0.022,
+        "cost_avg": 0.079,
+        "cost_peak": 0.162
+      },
+      {
+        "name": "Tumble Dryer",
+        "emoji": "\u267b\ufe0f",
+        "watts": 2500,
+        "kwh": 2.5,
+        "cost_opt": 0.021,
+        "cost_avg": 0.025,
+        "cost_peak": 0.05
+      },
+      {
+        "name": "Dishwasher",
+        "emoji": "\ud83c\udf7d\ufe0f",
+        "watts": 1800,
+        "kwh": 2.25,
+        "cost_opt": 0.019,
+        "cost_avg": 0.022,
+        "cost_peak": 0.045
+      },
+      {
+        "name": "Electric Boiler",
+        "emoji": "\ud83d\udebf",
+        "watts": 2000,
+        "kwh": 2.0,
+        "cost_opt": 0.005,
+        "cost_avg": 0.02,
+        "cost_peak": 0.04
+      }
+    ],
+    "total_opt": 0.35,
+    "total_avg": 0.87,
+    "total_peak": 1.77,
+    "max_savings": 1.41
+  },
+  "appliances": [
+    {
+      "name": "EV Charging",
+      "emoji": "\ud83d\ude97",
+      "watts": 7400,
+      "duration": 480,
+      "best_start": 0,
+      "best_avg": 0.4,
+      "window_str": "00:00\u201308:00",
+      "cost_best": 0.235,
+      "cost_worst": 1.196,
+      "savings_eur": 0.961,
+      "flexibility": "high",
+      "category": "vehicle"
+    },
+    {
+      "name": "Electric Sauna",
+      "emoji": "\ud83d\udec1",
+      "watts": 7000,
+      "duration": 90,
+      "best_start": 3,
+      "best_avg": 0.26,
+      "window_str": "03:00\u201305:00",
+      "cost_best": 0.028,
+      "cost_worst": 0.212,
+      "savings_eur": 0.185,
+      "flexibility": "high",
+      "category": "heating"
+    },
+    {
+      "name": "Floor Heating",
+      "emoji": "\ud83c\udf21\ufe0f",
+      "watts": 2000,
+      "duration": 240,
+      "best_start": 1,
+      "best_avg": 0.27,
+      "window_str": "01:00\u201305:00",
+      "cost_best": 0.022,
+      "cost_worst": 0.162,
+      "savings_eur": 0.14,
+      "flexibility": "high",
+      "category": "heating"
+    },
+    {
+      "name": "Electric Boiler",
+      "emoji": "\ud83d\udebf",
+      "watts": 2000,
+      "duration": 60,
+      "best_start": 3,
+      "best_avg": 0.26,
+      "window_str": "03:00\u201304:00",
+      "cost_best": 0.005,
+      "cost_worst": 0.04,
+      "savings_eur": 0.035,
+      "flexibility": "high",
+      "category": "heating"
+    },
+    {
+      "name": "Washing Machine",
+      "emoji": "\ud83e\uddfa",
+      "watts": 2000,
+      "duration": 90,
+      "best_start": 12,
+      "best_avg": 0.86,
+      "window_str": "12:00\u201314:00",
+      "cost_best": 0.026,
+      "cost_worst": 0.061,
+      "savings_eur": 0.035,
+      "flexibility": "high",
+      "category": "cleaning"
+    },
+    {
+      "name": "Tumble Dryer",
+      "emoji": "\u267b\ufe0f",
+      "watts": 2500,
+      "duration": 60,
+      "best_start": 12,
+      "best_avg": 0.84,
+      "window_str": "12:00\u201313:00",
+      "cost_best": 0.021,
+      "cost_worst": 0.05,
+      "savings_eur": 0.03,
+      "flexibility": "high",
+      "category": "cleaning"
+    },
+    {
+      "name": "Dishwasher",
+      "emoji": "\ud83c\udf7d\ufe0f",
+      "watts": 1800,
+      "duration": 75,
+      "best_start": 12,
+      "best_avg": 0.84,
+      "window_str": "12:00\u201313:00",
+      "cost_best": 0.019,
+      "cost_worst": 0.045,
+      "savings_eur": 0.027,
+      "flexibility": "high",
+      "category": "cleaning"
+    }
+  ],
+  "sauna_cheap": {
+    "start_str": "12:00",
+    "ready_str": "14:00",
+    "avg": 0.86,
+    "cost_eur": 0.09,
+    "savings_eur": 0.12
+  },
+  "sauna_afterwork": {
+    "start_str": "16:00",
+    "ready_str": "18:00",
+    "avg": 1.14,
+    "cost_eur": 0.12,
+    "savings_eur": 0.09
+  },
+  "ev": {
+    "start_str": "00:00",
+    "end_str": "08:00",
+    "window_str": "00:00\u201308:00",
+    "avg": 0.4,
+    "kwh": 59.2,
+    "cost_eur": 0.24,
+    "cost_peak_eur": 1.2,
+    "savings_eur": 0.96
+  },
+  "ev_best_day": {
+    "start_str": "00:00",
+    "end_str": "08:00",
+    "window_str": "00:00\u201308:00",
+    "avg": 0.4,
+    "kwh": 59.2,
+    "cost_eur": 0.24,
+    "savings_eur": 0.96
+  },
+  "environmental": {
+    "co2_saved_g": 52.5,
+    "co2_saved_yearly_kg": 19.2,
+    "tree_days": 0.9,
+    "ice_cm2": 1.6,
+    "ice_m2_yearly": 0.057,
+    "collective_co2_tonnes_yr": 47906.0,
+    "collective_ice_km2_yr": 0.14,
+    "greenest_hours": "00:00\u201324:00",
+    "dirtiest_hours": "",
+    "carbon_min": 43.0,
+    "carbon_max": 45.0,
+    "carbon_avg": 43.7
+  },
+  "prices_c": {
+    "0": 0.291,
+    "1": 0.299,
+    "2": 0.267,
+    "3": 0.262,
+    "4": 0.262,
+    "5": 0.328,
+    "6": 0.581,
+    "7": 0.889,
+    "8": 1.288,
+    "9": 1.507,
+    "10": 1.105,
+    "11": 0.887,
+    "12": 0.836,
+    "13": 0.881,
+    "14": 0.858,
+    "15": 0.883,
+    "16": 1.019,
+    "17": 1.258,
+    "18": 1.501,
+    "19": 2.021,
+    "20": 1.997,
+    "21": 1.777,
+    "22": 1.649,
+    "23": 1.131
+  },
+  "classifications": {
+    "0": "very_cheap",
+    "1": "very_cheap",
+    "2": "very_cheap",
+    "3": "very_cheap",
+    "4": "very_cheap",
+    "5": "cheap",
+    "6": "cheap",
+    "7": "normal",
+    "8": "expensive",
+    "9": "very_expensive",
+    "10": "expensive",
+    "11": "normal",
+    "12": "cheap",
+    "13": "cheap",
+    "14": "cheap",
+    "15": "normal",
+    "16": "normal",
+    "17": "expensive",
+    "18": "expensive",
+    "19": "very_expensive",
+    "20": "very_expensive",
+    "21": "very_expensive",
+    "22": "very_expensive",
+    "23": "expensive"
+  },
+  "carbon_intensity": {
+    "0": 43.0,
+    "1": 43.0,
+    "2": 43.0,
+    "3": 44.0,
+    "4": 44.0,
+    "5": 45.0,
+    "6": 44.0,
+    "7": 43.0,
+    "8": 43.0,
+    "9": 44.0,
+    "10": 44.0,
+    "11": 44.0,
+    "12": 45.0,
+    "13": 45.0,
+    "14": 44.0,
+    "15": 44.0,
+    "16": 43.0,
+    "17": 44.0,
+    "18": 43.0,
+    "19": 43.0,
+    "20": 43.0,
+    "21": 43.0,
+    "22": 43.0,
+    "23": 44.0
+  }
+}
