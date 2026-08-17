@@ -1,5 +1,5 @@
 ⚠️ EXTREME PRICE SWINGS TOMORROW
-📅 Today: Thursday 13 August 2026
+📅 Thursday: Thursday 13 August 2026
 
 💰 PRICE SUMMARY
 Average: 10.7 c/kWh | Range: 6.2–17.9 c/kWh
@@ -7,7 +7,7 @@ Cheapest window: 11:00–17:00 (7.3 c/kWh)
 Priciest window: 18:00–22:00 (16.2 c/kWh)
 
 🌿 CARBON OUTLOOK
-Avg CO₂: 92 gCO₂/kWh
+Avg CO₂: 156 gCO₂/kWh
 
 📋 RECOMMENDED SCHEDULE
 🚗 EV Charging: 00:00–08:00 (9.3 c/kWh) — saves ~€5.09
@@ -30,5 +30,3 @@ Avg CO₂: 92 gCO₂/kWh
 💡 DAILY COST ESTIMATE (optimised schedule, one run each)
   Total: €6.57 — saves up to €9.10 vs peak
   Includes: EV Charging, Electric Sauna, Floor Heating, Washing Machine, Tumble Dryer, Dishwasher, Electric Boiler
-
-🌡️ Weather: 17°C (15–20°C), Overcast clouds, wind 3 m/s
