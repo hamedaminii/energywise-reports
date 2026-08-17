@@ -2,8 +2,8 @@
   "date": "2026-08-17",
   "date_label": "Today",
   "weather": {
-    "avg_temp": 17.0,
-    "min_temp": 15.6,
+    "avg_temp": 17.1,
+    "min_temp": 15.8,
     "max_temp": 19.4,
     "avg_wind": 4.0,
     "description": "Broken clouds"
