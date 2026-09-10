@@ -1,13 +1,7 @@
 {
   "date": "2026-09-06",
-  "date_label": "Today",
-  "weather": {
-    "avg_temp": 13.2,
-    "min_temp": 12.4,
-    "max_temp": 14.5,
-    "avg_wind": 5.3,
-    "description": "Scattered clouds"
-  },
+  "date_label": "Sunday",
+  "weather": {},
   "price_stats": {
     "avg": 1.326,
     "min": 0.21,
@@ -291,18 +285,18 @@
     "savings_eur": 2.24
   },
   "environmental": {
-    "co2_saved_g": 3960.8,
-    "co2_saved_yearly_kg": 1445.7,
-    "tree_days": 68.9,
-    "ice_cm2": 118.8,
-    "ice_m2_yearly": 4.337,
-    "collective_co2_tonnes_yr": 3614212.0,
-    "collective_ice_km2_yr": 10.84,
+    "co2_saved_g": 588.8,
+    "co2_saved_yearly_kg": 214.9,
+    "tree_days": 10.2,
+    "ice_cm2": 17.7,
+    "ice_m2_yearly": 0.645,
+    "collective_co2_tonnes_yr": 537285.0,
+    "collective_ice_km2_yr": 1.61,
     "greenest_hours": "",
-    "dirtiest_hours": "00:00\u201311:00",
-    "carbon_min": 50.0,
+    "dirtiest_hours": "00:00\u201324:00",
+    "carbon_min": 169.0,
     "carbon_max": 189.4,
-    "carbon_avg": 110.2
+    "carbon_avg": 177.3
   },
   "prices_c": {
     "0": 1.098,
@@ -368,18 +362,18 @@
     "8": 183.3,
     "9": 189.4,
     "10": 188.4,
-    "11": 50.0,
-    "12": 50.0,
-    "13": 50.0,
-    "14": 51.0,
-    "15": 51.0,
-    "16": 51.0,
-    "17": 50.0,
-    "18": 50.0,
-    "19": 51.0,
-    "20": 52.0,
-    "21": 52.0,
-    "22": 52.0,
-    "23": 52.0
+    "11": 182.5,
+    "12": 180.9,
+    "13": 177.3,
+    "14": 174.7,
+    "15": 174.4,
+    "16": 175.1,
+    "17": 176.1,
+    "18": 176.7,
+    "19": 173.0,
+    "20": 171.5,
+    "21": 171.2,
+    "22": 169.0,
+    "23": 169.1
   }
 }
