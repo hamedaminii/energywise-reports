@@ -10,7 +10,7 @@ Priciest window: 09:00–13:00 (0.2 c/kWh)
 Run EVERYTHING you can during these hours!
 
 🌿 CARBON OUTLOOK
-Avg CO₂: 142 gCO₂/kWh
+Avg CO₂: 102 gCO₂/kWh
 
 📋 RECOMMENDED SCHEDULE
 🚗 EV Charging: 00:00–08:00 (-0.0 c/kWh) — saves ~€0.16
