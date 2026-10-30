@@ -1,0 +1,33 @@
+⚠️ EXTREME PRICE SWINGS TOMORROW
+📅 Tomorrow: Saturday 31 October 2026
+
+💰 PRICE SUMMARY
+Average: 10.3 c/kWh | Range: 2.9–17.8 c/kWh
+Cheapest window: 18:00–24:00 (4.1 c/kWh)
+Priciest window: 00:00–04:00 (15.9 c/kWh)
+
+🌿 CARBON OUTLOOK
+Avg CO₂: 70 gCO₂/kWh
+
+📋 RECOMMENDED SCHEDULE
+🚗 EV Charging: 01:00–09:00 (14.1 c/kWh) — saves ~€2.21
+🛁 Electric Sauna: 22:00–00:00 (3.1 c/kWh) — saves ~€1.55
+🌡️ Floor Heating: 20:00–00:00 (3.4 c/kWh) — saves ~€1.16
+❄️ Air Conditioning: 22:00–00:00 (3.1 c/kWh) — saves ~€0.44
+🧺 Washing Machine: 21:00–23:00 (3.4 c/kWh) — saves ~€0.43
+♻️ Tumble Dryer: 22:00–23:00 (3.3 c/kWh) — saves ~€0.36
+🍕 Electric Oven: 22:00–23:00 (3.3 c/kWh) — saves ~€0.36
+🍽️ Dishwasher: 22:00–23:00 (3.3 c/kWh) — saves ~€0.33
+🚿 Electric Boiler: 23:00–00:00 (2.9 c/kWh) — saves ~€0.30
+👔 Iron: 22:00–23:00 (3.3 c/kWh) — saves ~€0.16
+
+✅ CHEAPEST 6-HOUR WINDOW: 18:00–24:00 (avg 4.1 c/kWh) — ideal for high-consumption tasks
+⛔ AVOID IF POSSIBLE: 00:00–04:00 (avg 15.9 c/kWh, 1.5× daily average)
+🚗 EV OVERNIGHT WINDOW: 20:00–04:00 (avg 9.6 c/kWh) — overnight avg 11.1 c/kWh (+8.2 vs daytime cheapest)
+🛁 SAUNA (cheapest): Start heating at 21:00 (3.4 c/kWh) → ready at 23:00. Heating costs ~€0.35
+
+💡 DAILY COST ESTIMATE (optimised schedule, one run each)
+  Total: €4.06 — saves up to €11.54 vs peak
+  Includes: EV Charging, Electric Sauna, Floor Heating, Washing Machine, Tumble Dryer, Dishwasher, Electric Boiler
+
+🌡️ Weather: 8°C (7–10°C), Overcast clouds, wind 2 m/s
