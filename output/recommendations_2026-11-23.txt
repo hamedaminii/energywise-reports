@@ -1,0 +1,30 @@
+🔋 Finland Energy Advisor
+📅 Tomorrow: Monday 23 November 2026
+
+💰 PRICE SUMMARY
+Average: 1.7 c/kWh | Range: 0.4–2.5 c/kWh
+Cheapest window: 01:00–07:00 (0.5 c/kWh)
+Priciest window: 12:00–16:00 (2.5 c/kWh)
+
+🌿 CARBON OUTLOOK
+Avg CO₂: 51 gCO₂/kWh
+
+📋 RECOMMENDED SCHEDULE
+🚗 EV Charging: 00:00–08:00 (0.7 c/kWh) — saves ~€1.10
+🛁 Electric Sauna: 03:00–05:00 (0.5 c/kWh) — saves ~€0.22
+🌡️ Floor Heating: 01:00–05:00 (0.5 c/kWh) — saves ~€0.17
+🚿 Electric Boiler: 01:00–02:00 (0.4 c/kWh) — saves ~€0.04
+🧺 Washing Machine: 07:00–09:00 (1.3 c/kWh) — saves ~€0.04
+
+✅ CHEAPEST 6-HOUR WINDOW: 01:00–07:00 (avg 0.5 c/kWh) — ideal for high-consumption tasks
+⛔ AVOID IF POSSIBLE: 12:00–16:00 (avg 2.5 c/kWh, 1.4× daily average)
+🚗 EV OVERNIGHT WINDOW: 00:00–08:00 (avg 0.7 c/kWh) — overnight avg 1.2 c/kWh (+0.8 vs daytime cheapest)
+🛁 SAUNA (cheapest): Start heating at 07:00 (1.3 c/kWh) → ready at 09:00. Heating costs ~€0.14
+🛁 SAUNA (after work): Heat at 16:00 (2.3 c/kWh) → enjoy at 18:00 — typical Finnish weekday sauna time
+🌿 GREENEST HOURS (< 50 gCO₂/kWh): 00:00–10:00
+
+💡 DAILY COST ESTIMATE (optimised schedule, one run each)
+  Total: €0.58 — saves up to €1.63 vs peak
+  Includes: EV Charging, Electric Sauna, Washing Machine, Floor Heating, Tumble Dryer, Dishwasher, Electric Boiler
+
+🌡️ Weather: 2°C (2–2°C), Light rain, wind 7 m/s
